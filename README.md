@@ -1,5 +1,6 @@
 # exploratory-Data-Analysis-eda-store
 Music Store Data Analysis – SQL Project  📌 Project Overview  This project analyzes a fictional music store's database to extract meaningful business insights using SQL. The goal is to help the store's management understand sales trends, customer behavior, and product performance, enabling better decision-making for marketing and inventory 
+
 For this project on Music Store Data Analysis, I started by first trying to understand the database schema. I learned how to explore the schema diagram and studied how various tables like Customer, Invoice, InvoiceLine, Track, Album, Genre, and Artist are connected. To get more comfortable, I even practiced by creating my own mini schema using tools like Schema.io. This hands-on approach really helped me visualize how the tables relate to each other and made it easier when I had to write queries later.
 
 While solving the easy-level questions, I worked with basic SQL functions like GROUP BY, ORDER BY, and SUM. For example, I found the senior-most employee by job title, identified countries with the most invoices, got the top 3 invoice totals, and figured out the city with the highest spending customers. These questions helped me get comfortable with aggregation and filtering.
